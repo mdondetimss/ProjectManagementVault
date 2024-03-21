@@ -1,4 +1,7 @@
  **10 Slides Pitch**
+
+ ![Alt text](https://github.com/mdondetimss/ProjectManagementVault/blob/main/10Slides-Pitch.jpg)
+ 
 Every pitch can make or break a deal.
 
 But not all decks are created equal.
